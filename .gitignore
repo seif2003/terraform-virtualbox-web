@@ -1,0 +1,5 @@
+# Ignore images folder and its contents
+images/
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
